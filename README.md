@@ -8,4 +8,6 @@ I also learned how to implement all that I learned in code, albeit not all of it
 --
 I think it was a very enlighting experience overall, reading a book is way different than watching a youtube series in my view.
 --
+I used Pytorch and it wasn't a hassle to deal with.
+--
 # Thanks for reading ^-^
